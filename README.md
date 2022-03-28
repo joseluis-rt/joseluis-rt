@@ -1,21 +1,32 @@
+[![MasterHead](https://camo.githubusercontent.com/5346f5a9b63e9e93ff8265ebb05eeda7fc03e48dfe766ba177c788e5c65c6c86/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966)](https://github.com/joseluis-rt)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=joseluis-rt&label=Profile%20views&color=0e75b6&style=flat" alt="joseluis-rt" /> </p>
+
 # Hi 👋, I'm José Luís
 
 - I'm a Software Engineering student at University of Brasilia (UnB) 🧑‍🎓
 - I'm currently living in Brasilia-DF, Brazil 🇧🇷
 - I was born in 2000 🐲
-- I’m currently learning about everything that I can about software 📚
-- **Fun fact**: Addicted to football ⚽ (Man City supporter) 💙
+
+<br />
+
+**Fun facts**
+- Addicted to football ⚽ (Man City supporter) 💙
+- Addicted to animes 🎎
+- Pet lover 🐶♥️
 
 ## Github Stats 🏆
 
 <div align="center">
   <a href="https://github.com/joseluis-rt">
-  <img align="right" alt="Dancing" width="280" src="https://studio.code.org/media?u=https%3A%2F%2Fdiscordemoji.com%2Fassets%2Femoji%2F8738_Penguin_Hawai_Dance.gif"/>
+  <img align="right" alt="Dancing" width="300" src="https://studio.code.org/media?u=https%3A%2F%2Fdiscordemoji.com%2Fassets%2Femoji%2F8738_Penguin_Hawai_Dance.gif"/>
   <img height="left" src="https://github-readme-stats.vercel.app/api?username=joseluis-rt&show_icons=true&theme=default"/>
+  <img align="right" alt="Dancing" width="300" src="https://c.tenor.com/4uXtEfe3BvIAAAAC/club-penguin.gif"/>
+  <img height="left" src="https://github-readme-streak-stats.herokuapp.com/?user=joseluis-rt&theme=default" alt="joseluis-rt" />
 </div>
 
 
-##  Most Used Languages and Soft Skills 📝
+##  Most Used Languages and Soft Skills 📝📚
   
 <div align="center">
    <img align="left" alt="Dancing" width="280" src="https://static.wikia.nocookie.net/e8a5a817-0771-4829-b984-598fd7fa0aa3/scale-to-width/755"/>
@@ -31,7 +42,7 @@
 
 </div>
   
-## Contact me
+## Contact and social 📲
  
 <div align="center">
  	<a href="https://www.twitch.tv/lokebas" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -40,3 +51,5 @@
 </div>
 
 ## Contributions Snake 🐍
+
+
