@@ -1,5 +1,11 @@
 # Hi 👋, I'm José Luís
 
+- I'm a Software Engineering student at University of Brasilia (UnB) 🧑‍🎓
+- I'm currently living in Brasilia-DF, Brazil 🇧🇷
+- I was born in 2000 🐲
+- I’m currently learning about everything that I can about software 📚
+- **Fun fact**: Addicted to football ⚽ (Man City supporter) 💙
+
 ## Github Stats 🏆
 
 <div align="center">
@@ -9,7 +15,7 @@
 </div>
 
 
-##  Most Used Languages and Soft Skills💡
+##  Most Used Languages and Soft Skills 📝
   
 <div align="center">
    <img align="left" alt="Dancing" width="280" src="https://static.wikia.nocookie.net/e8a5a817-0771-4829-b984-598fd7fa0aa3/scale-to-width/755"/>
@@ -29,6 +35,8 @@
  
 <div align="center">
  	<a href="https://www.twitch.tv/lokebas" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "joseluisramost3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joseluisramost3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="    " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+## Contributions Snake 🐍
