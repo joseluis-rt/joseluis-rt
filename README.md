@@ -13,6 +13,6 @@
   
 <div align="center">
    <img align="left" alt="Dancing" width="240" src="https://static.wikia.nocookie.net/e8a5a817-0771-4829-b984-598fd7fa0aa3/scale-to-width/755"/>
-   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluis-rt&layout=compact&langs_count=7&theme=default"/>
+   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluis-rt&layout=compact&langs_count=7&theme=default"/>
 </div>
   
