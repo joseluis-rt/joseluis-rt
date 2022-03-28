@@ -21,7 +21,7 @@
   <a href="https://github.com/joseluis-rt">
   <img align="right" alt="Dancing" width="300" src="https://studio.code.org/media?u=https%3A%2F%2Fdiscordemoji.com%2Fassets%2Femoji%2F8738_Penguin_Hawai_Dance.gif"/>
   <img height="left" src="https://github-readme-stats.vercel.app/api?username=joseluis-rt&show_icons=true&theme=default"/>
-  <img align="right" alt="Dancing" width="300" src="https://c.tenor.com/4uXtEfe3BvIAAAAC/club-penguin.gif"/>
+  <img align="right" alt="Dancing" width="300" src="https://i.pinimg.com/originals/83/67/16/836716922c1e683933728f4d270808be.gif"/>
   <img height="left" src="https://github-readme-streak-stats.herokuapp.com/?user=joseluis-rt&theme=default" alt="joseluis-rt" />
 </div>
 
