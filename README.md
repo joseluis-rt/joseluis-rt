@@ -52,4 +52,4 @@
 
 ## Contributions Snake 🐍
 
-
+![snake gif](https://github.com/joseluis-rt/joseluis-rt/blob/output/github-contribution-grid-snake.gif)
