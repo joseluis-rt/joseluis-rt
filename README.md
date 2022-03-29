@@ -29,7 +29,7 @@
 ##  Most Used Languages and Soft Skills 📝📚
   
 <div align="center">
-   <img align="left" alt="Teleport" width="250" src="https://static.wikia.nocookie.net/e8a5a817-0771-4829-b984-598fd7fa0aa3/scale-to-width/755"/>
+   <img align="left" alt="Teleport" width="230" src="https://static.wikia.nocookie.net/e8a5a817-0771-4829-b984-598fd7fa0aa3/scale-to-width/755"/>
    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluis-rt&layout=compact&langs_count=7&theme=default"/>
 
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
