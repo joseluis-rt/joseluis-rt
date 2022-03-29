@@ -21,7 +21,7 @@
   <a href="https://github.com/joseluis-rt">
   <img align="right" alt="Dancing" width="300" src="https://studio.code.org/media?u=https%3A%2F%2Fdiscordemoji.com%2Fassets%2Femoji%2F8738_Penguin_Hawai_Dance.gif"/>
   <img height="left" src="https://github-readme-stats.vercel.app/api?username=joseluis-rt&show_icons=true&theme=default"/>
-  <img align="right" alt="Dancing" width="300" src="https://i.pinimg.com/originals/83/67/16/836716922c1e683933728f4d270808be.gif"/>
+  <img align="right" alt="Cleaning" width="300" src="https://i.pinimg.com/originals/83/67/16/836716922c1e683933728f4d270808be.gif"/>
   <img height="left" src="https://github-readme-streak-stats.herokuapp.com/?user=joseluis-rt&theme=default" alt="joseluis-rt" />
 </div>
 
@@ -29,7 +29,7 @@
 ##  Most Used Languages and Soft Skills 📝📚
   
 <div align="center">
-   <img align="left" alt="Dancing" width="280" src="https://static.wikia.nocookie.net/e8a5a817-0771-4829-b984-598fd7fa0aa3/scale-to-width/755"/>
+   <img align="left" alt="Teleport" width="280" src="https://static.wikia.nocookie.net/e8a5a817-0771-4829-b984-598fd7fa0aa3/scale-to-width/755"/>
    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluis-rt&layout=compact&langs_count=7&theme=default"/>
 
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
