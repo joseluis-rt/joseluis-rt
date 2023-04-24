@@ -10,11 +10,6 @@
 
 <br />
 
-**Fun facts**
-- Addicted to football ⚽ (Man City supporter) 💙
-- Addicted to animes 🎎
-- Pet lover 🐶♥️
-
 ## Github Stats 🏆
 
 <div align="center">
