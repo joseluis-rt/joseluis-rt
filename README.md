@@ -1,4 +1,4 @@
-<img align="right" src="https://profile-counter.glitch.me/joseluis-rt/count.svg?"  />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=joseluis-rt&label=Profile%20views&color=0e75b6&style=flat" alt="joseluis-rt" /> </p>
 
 ###
 
