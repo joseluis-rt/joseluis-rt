@@ -18,7 +18,7 @@
 
 <br>
 
-<img align="right" style="width: 40%; max-width: 240px;" src="./assets/guardiola.gif" alt="That's the beauty of sport. Sometimes you laugh, sometimes you cry." />
+<img align="right" style="width: 40%;" src="./assets/guardiola.gif" alt="That's the beauty of sport. Sometimes you laugh, sometimes you cry." />
 
 ### 📟 Programming Languages
 
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img style="width: 60%; max-width: 600px; min-width: 240px" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseluis-rt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=prussian&hide_border=true&order=2" height="210" alt="languages graph" />
+  <img style="width: 60%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseluis-rt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=prussian&hide_border=true&order=2" height="210" alt="languages graph" />
 </p>
 
 <br></br>
