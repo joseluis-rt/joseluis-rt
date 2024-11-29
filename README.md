@@ -22,47 +22,39 @@
 -->
 </div>
 
-###
+<div style="display: grid; grid-template-columns: 1fr auto; gap: 20px; align-items: start; margin-top: 20px;">
 
-<img align="right" height="432" src="https://i.gifer.com/NxNg.gif" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" />
+  <!-- Programming Languages Header -->
+  <h2 style="grid-row: 1; grid-column: 1 / 2; margin: 0;">📟 Programming Languages</h2>
 
-###
+  <!-- Guardiola GIF -->
+  <div style="grid-row: 1 / 5; grid-column: 2; position: relative; max-width: 240px; width: 100%;">
+    <img src="./assets/guardiola.gif" alt="That's the beauty of sport. Sometimes you laugh, sometimes you cry." style="width: 100%; height: auto; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" />
+    <p style="font-size: 14px; color: grey; margin-top: 10px; text-align: center;">That's the beauty of sport. Sometimes you laugh, sometimes you cry.</p>
+  </div>
 
-<h2 align="left">📟 Programming Languages</h2>
+  <!-- Language Graph -->
+  <div style="grid-row: 3 ; grid-column: 1 / 2; max-width: 100%; display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joseluis-rt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=prussian&hide_border=true&order=2" alt="Languages graph" style="width: 100%; max-width: 400px; height: auto;" />
+  </div>
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="c logo" title="C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="cplusplus logo" title="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48" alt="csharp logo" title="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="48" alt="haskell logo" title="Haskell" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="css3 logo" title="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="html5 logo" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="javascript logo" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="typescript logo" title="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="java logo" title="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="48" alt="markdown logo" title="Markdown" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="python logo" title="Python" />
+  <!-- Programming Icons -->
+  <div style="grid-row: 2 ;grid-column: 1 / 2; text-align: center; margin-top: 0px;">
+    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="C" title="C" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" title="C++" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48" alt="C#" title="C#" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="48" alt="Haskell" title="Haskell" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3" title="CSS3" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" title="HTML5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" title="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="TypeScript" title="TypeScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="Java" title="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="48" alt="Markdown" title="Markdown" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" title="Python" />
+    </div>
+  </div>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joseluis-rt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=prussian&hide_border=true&order=2" height="210" alt="languages graph"  />
-</div>
-
-###
 
 <h2 align="left">🛠 Tools and Technologies</h2>
 
@@ -119,6 +111,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo" title="Windows" />
 </div>
+
+<br><br>
 
 ###
 
