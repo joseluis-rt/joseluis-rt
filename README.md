@@ -1,50 +1,146 @@
-[![MasterHead](https://i.pinimg.com/originals/d6/9e/39/d69e39524bd64983b98e39e750e96881.gif)](https://github.com/joseluis-rt)
+<img align="right" src="https://profile-counter.glitch.me/joseluis-rt/count.svg?"  />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=joseluis-rt&label=Profile%20views&color=0e75b6&style=flat" alt="joseluis-rt" /> </p>
+###
 
-# Hi 👋, I'm José Luís
+<h1 align="left">Hi 👋, I'm José Luís</h1>
 
-- I'm a Software Engineering student at University of Brasilia (UnB) 🧑‍🎓
-- I'm currently living in Brasilia-DF, Brazil 🇧🇷
-- I was born in 2000 🐲
+###
 
-<br />
+<p align="left">- 🎓 **Software Engineering student** at University of Brasilia (UnB)<br>- 📍 Based in **Brasilia-DF, Brazil** 🇧🇷 <br>- 🐲 Born on **June 3, 2000**, in 🌴 Fortaleza-CE ⛵🌴<br><br>-🤝 Always open to collaboration and new projects.</p>
 
-## Github Stats 🏆
+###
+
+<h2 align="left">🏆 Github Stats and Contributions</h2>
+
+###
 
 <div align="center">
-  <a href="https://github.com/joseluis-rt">
-  <img align="right" alt="Dancing" width="300" src="https://studio.code.org/media?u=https%3A%2F%2Fdiscordemoji.com%2Fassets%2Femoji%2F8738_Penguin_Hawai_Dance.gif"/>
-  <img height="left" src="https://github-readme-stats.vercel.app/api?username=joseluis-rt&show_icons=true&theme=default"/>
-  <img align="right" alt="Cleaning" width="300" src="https://i.pinimg.com/originals/83/67/16/836716922c1e683933728f4d270808be.gif"/>
-  <img height="left" src="https://github-readme-streak-stats.herokuapp.com/?user=joseluis-rt&theme=default" alt="joseluis-rt" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joseluis-rt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&theme=react&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=joseluis-rt&locale=en&mode=daily&theme=prussian&hide_border=true&border_radius=24&order=3" height="160" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseluis-rt&radius=24&theme=github-dark-dimmed&area=true&order=5&hide_border=true&hide_title=false" height="280" alt="activity-graph graph"  />
 </div>
 
+###
 
-##  Most Used Languages and Soft Skills 📝📚
-  
+<img align="right" height="432" src="https://i.gifer.com/NxNg.gif" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" />
+
+###
+
+<h2 align="left">📟 Programming Languages</h2>
+
+###
+
 <div align="center">
-   <img align="left" alt="Teleport" width="230" src="https://static.wikia.nocookie.net/e8a5a817-0771-4829-b984-598fd7fa0aa3/scale-to-width/755"/>
-   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluis-rt&layout=compact&langs_count=7&theme=default"/>
-
-   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="c logo" title="C" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="cplusplus logo" title="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48" alt="csharp logo" title="C#" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="48" alt="haskell logo" title="Haskell" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="css3 logo" title="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="html5 logo" title="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="javascript logo" title="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="typescript logo" title="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="java logo" title="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="48" alt="markdown logo" title="Markdown" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="python logo" title="Python" />
 </div>
-  
-## Contact and social 📲
- 
+
+###
+
 <div align="center">
- 	<a href="https://www.twitch.tv/lokebas" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joseluisramost3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="    " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joseluis-rt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=prussian&hide_border=true&order=2" height="210" alt="languages graph"  />
 </div>
 
-## Contributions Snake 🐍
+###
 
-![snake gif](https://github.com/joseluis-rt/joseluis-rt/blob/output/github-contribution-grid-snake.gif)
+<h2 align="left">🛠 Tools and Technologies</h2>
+
+###
+
+<div align="center">
+  <img src="https://yt3.googleusercontent.com/ZpRyBvODc2Rit7G_sIPeX8g48vW3ZQVzXrEKRpkfUImCXMCgsEve_mmujJo5xbiGFz9EeJx6Hw=s900-c-k-c0x00ffffff-no-rj" height="48" alt="brmodelo logo" title="BR Modelo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" alt="canva logo" title="Canva" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="48" alt="cmake logo" title="CMake" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="docker logo" title="Docker" />
+  <img width="12" />
+  <img src="https://seeklogo.com/images/E/espressif-systems-logo-1350B9E771-seeklogo.com.png" height="48" alt="ESP-IDF logo" title="ESP-IDF" />
+  <img width="12" />
+  <img src="https://seeklogo.com/images/E/expo-go-app-logo-BBBE394CB8-seeklogo.com.png" height="48" alt="expo go logo" title="Expo Go" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" alt="figma logo" title="Figma" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="48" alt="gcc logo" title="GCC" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="git logo" title="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="jupyter logo" title="Jupyter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="mysql logo" title="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="oracle logo" title="Oracle" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="48" alt="raspberrypi logo" title="Raspberry Pi" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="react logo" title="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="48" alt="trello logo" title="Trello" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/2051px-Vmware_workstation_16_icon.svg.png" height="48" alt="vmware logo" title="VMware" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="vscode logo" title="VSCode" />
+</div>
+
+###
+
+<h2 align="left">💻 Environments</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo" title="Debian" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo" title="Red Hat" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo" title="Windows" />
+</div>
+
+###
+
+<h2 align="left">📪 Contact Me</h2>
+
+###
+
+<div align="center">
+  <a href="https://gitlab.com/joseluis-rt" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="60" height="48" alt="gitlab logo" title="GitLab" />
+  </a>
+  <a href="https://www.linkedin.com/in/jose-luis-ramos-teixeira/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="48" alt="linkedin logo" title="LinkedIn" />
+  </a>
+  <a href="mailto:joseluisramost3@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="48" alt="gmail logo" title="Gmail" />
+  </a>
+  <a href="https://codepen.io/joseluis-rt" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="60" height="48" alt="codepen logo" title="CodePen" />
+  </a>
+  <a href="https://discord.com/users/580169489103192067" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="48" alt="discord logo" title="Discord" />
+  </a>
+  <a href="https://t.me/JoseLuiis" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="48" alt="telegram logo" title="Telegram" />
+  </a>
+</div>
