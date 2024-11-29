@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🎓 **Software Engineering student** at University of Brasilia (UnB)<br>- 📍 Based in **Brasilia-DF, Brazil** 🇧🇷 <br>- 🐲 Born on **June 3, 2000**, in 🌴 Fortaleza-CE ⛵🌴<br><br>-🤝 Always open to collaboration and new projects.</p>
+<p align="left">- 🎓 <strong>Software Engineering student</strong> at University of Brasilia (UnB)<br>- 📍 Based in <strong>Brasilia-DF, Brazil</strong> 🇧🇷 <br>- 🐲 Born on <strong>June 3, 2000</strong>, in 🌴 Fortaleza-CE ⛵🌴<br><br>-🤝 Always open to collaboration and new projects.</p>
 
 ###
 
