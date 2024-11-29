@@ -18,7 +18,7 @@
 
 <br>
 
-<img align="right" height="300" src="./assets/guardiola.gif" alt="That's the beauty of sport. Sometimes you laugh, sometimes you cry." />
+<img align="right" height="300" src="./assets/guardiola.gif" title="That's the beauty of sport. Sometimes you laugh, sometimes you cry." />
 
 ### 📟 Programming Languages
 
